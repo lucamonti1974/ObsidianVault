@@ -56,28 +56,13 @@
       "output_handling_mode": "buffered",
       "execution_notification_mode": "permanent",
       "events": {
-        "file-content-modified": {
-          "enabled": true
-        },
         "on-quit": {
-          "enabled": true
-        },
-        "file-renamed": {
-          "enabled": true
-        },
-        "file-moved": {
-          "enabled": true
-        },
-        "file-deleted": {
-          "enabled": true
-        },
-        "file-created": {
           "enabled": true
         }
       },
       "debounce": {
         "executeEarly": false,
-        "executeLate": true,
+        "executeLate": false,
         "cooldownDuration": 20,
         "prolongCooldown": true
       },
