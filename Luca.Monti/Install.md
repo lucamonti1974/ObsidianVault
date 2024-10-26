@@ -102,6 +102,6 @@
 		- [ ] Licence
 		- [ ] Security
 		- [ ] Smarter
-	- [ ] 
+	- [x] Brave browser
 
 
