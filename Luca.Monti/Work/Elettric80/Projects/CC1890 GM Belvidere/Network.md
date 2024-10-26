@@ -1,7 +1,7 @@
-|   |   |
-|---|---|
-|Username|X67863A|
-|Password|tmkz9dkk#JtGx8t|
+| domain   | genmills.com    |
+| -------- | --------------- |
+| Username | X67863A         |
+| Password | tmkz9dkk#JtGx8t |
 
 ### GlobalConnect address
 

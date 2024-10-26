@@ -1,16 +1,50 @@
-<PropertyGroup>  
-   <LangVersion>latest</LangVersion>   
+## Edit the project file
+
+You can set the language version in your project file. For example, if you explicitly want access to preview features, add an element like this:
+
+XMLCopy
+
+```
+<PropertyGroup>
+   <LangVersion>preview</LangVersion>
 </PropertyGroup>
+```
+
+The value `preview` uses the latest available preview C# language version that your compiler supports.
+
+[](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/configure-language-version#configure-multiple-projects)
+
+## Configure multiple projects
+
+To configure multiple projects, you can create a _Directory.Build.props_ file, typically in your solution directory, that contains the `<LangVersion>` element. Add the following setting to the _Directory.Build.props_ file:
+
+XMLCopy
+
+```
+<Project>
+ <PropertyGroup>
+   <LangVersion>preview</LangVersion>
+ </PropertyGroup>
+</Project>
+```
+
+Builds in all subdirectories of the directory containing that file now use the preview C# version. For more information, see [Customize your build](https://learn.microsoft.com/en-us/visualstudio/msbuild/customize-your-build).
+
+[](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/configure-language-version#c-language-version-reference)
 
 ## C# language version reference
 
-The following table shows all current C# language versions. Your compiler may not necessarily understand every value if it's older. If you install the latest .NET SDK, then you have access to everything listed.
+The following table shows all current C# language versions. Older compilers might not understand every value. If you install the latest .NET SDK, you have access to everything listed.
+
+Expand table
 
 |Value|Meaning|
 |---|---|
 |`preview`|The compiler accepts all valid language syntax from the latest preview version.|
 |`latest`|The compiler accepts syntax from the latest released version of the compiler (including minor version).|
-|`latestMajor`  <br>or `default`|The compiler accepts syntax from the latest released major version of the compiler.|
+|`latestMajor`  <br>or `default`|The compiler accepts syntax from the latest released major version of the compiler.|
+|`13.0`|The compiler accepts only syntax that is included in C# 13 or lower.|
+|`12.0`|The compiler accepts only syntax that is included in C# 12 or lower.|
 |`11.0`|The compiler accepts only syntax that is included in C# 11 or lower.|
 |`10.0`|The compiler accepts only syntax that is included in C# 10 or lower.|
 |`9.0`|The compiler accepts only syntax that is included in C# 9 or lower.|
@@ -23,5 +57,5 @@ The following table shows all current C# language versions. Your compiler may no
 |`5`|The compiler accepts only syntax that is included in C# 5.0 or lower.|
 |`4`|The compiler accepts only syntax that is included in C# 4.0 or lower.|
 |`3`|The compiler accepts only syntax that is included in C# 3.0 or lower.|
-|`ISO-2`  <br>or `2`|The compiler accepts only syntax that is included in ISO/IEC 23270:2006 C# (2.0).|
-|`ISO-1`  <br>or `1`|The compiler accepts only syntax that is included in ISO/IEC 23270:2003 C# (1.0/1.2).|
+|`ISO-2`  <br>or `2`|The compiler accepts only syntax that is included in ISO/IEC 23270:2006 C# (2.0).|
+|`ISO-1`  <br>or `1`|The compiler accepts only syntax that is included in ISO/IEC 23270:2003 C# (1.0/1.2).|

@@ -1,3 +1,4 @@
+
 ```sql
 USE [master]; 
 DECLARE @kill varchar(8000) = '';   

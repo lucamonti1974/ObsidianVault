@@ -11,12 +11,12 @@
 
 ### Users
 
-|Domain|User|PWD|Note|
-|---|---|---|---|
-|costergroup|E80Adm|E8O-4dM1,428|Admin user server Elettric80|
-|costergroup|E80Srv|E8O?s3rV!91|Service user server Elettric80|
-||sa|StandardE80|sa user SQL SERVER|
-||e80sqlbck|BDX4t*<N,.!=h4/8#çeò|c2-3100 (backup server ) user|
+| Domain      | User   | PWD                  | Note                           |
+| ----------- | ------ | -------------------- | ------------------------------ |
+| costergroup | E80Adm | E8O-4dM1,428         | Admin user server Elettric80   |
+| costergroup | E80Srv | E8O?s3rV!91          | Service user server Elettric80 |
+|             | sa     | StandardE80          | sa user SQL SERVER             |
+| costergoup  | E80bck | BDX4t*<N,.!=h4/8#çeò | c2-3100 (backup server ) user  |
 
 ### IP Addresses
 

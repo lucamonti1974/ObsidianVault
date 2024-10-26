@@ -1,4 +1,4 @@
-|   |   |   |
-|---|---|---|
-|Maciej Miciula|Site|**NESSUNO DI INFOMOTION**|
-|Alejandro Ramirez|Embedded|**NO X LORY**|
+|                   |          |                           |
+| ----------------- | -------- | ------------------------- |
+| Maciej Miciula    | Site     | **NESSUNO DI INFOMOTION** |
+| Alejandro Ramirez | Embedded | **NO X LORY**             |
