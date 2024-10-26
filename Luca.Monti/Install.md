@@ -1,29 +1,29 @@
-- [ ] VPN
-	- [ ] Forti Client
+- [x] VPN
+	- [x] Forti Client
 		- [x] Infomotion
-		- [ ] Sofidel
-			- [ ] Sofidel
-			- [ ] vpn2.sofidel.com
-			- [ ] luca.monti
-			- [ ] #:t?9fUz6MK2WO.6
-	- [ ] Global Protect
+		- [x] Sofidel
+			- [x] Sofidel
+			- [x] vpn2.sofidel.com
+			- [x] luca.monti
+			- [x] #:t?9fUz6MK2WO.6
+	- [x] Global Protect
 		- [x] Elettric80
-			- [ ] usavpn01.e80group.com
-			- [ ] vpnext.e80group.com
-		- [ ] General Mills
-			- [ ] gpvend.genmills.com
-	- [ ] Ivanti Secure Access
-		- [ ] General MIlls
-			- [ ] General Mills
-				- [ ] https://pfgateway.genmills.com/vendor
-			- [ ] IC
-				- [ ] pfgateway.genmills.com
+			- [x] usavpn01.e80group.com
+			- [x] vpnext.e80group.com
+		- [x] General Mills
+			- [x] gpvend.genmills.com
+	- [x] Ivanti Secure Access
+		- [x] General MIlls
+			- [x] General Mills
+				- [x] https://pfgateway.genmills.com/vendor
+			- [x] IC
+				- [x] pfgateway.genmills.com
 	- [x] Ubiquity
-	- [ ] WatchGuard
-		- [ ] Foma 		
-			- [ ] firewall.foma.it
-			- [ ] RADIUS\E80-Monti
-			- [ ] Giallo2Sara@
+	- [x] WatchGuard
+		- [x] Foma 		
+			- [x] firewall.foma.it
+			- [x] RADIUS\E80-Monti
+			- [x] Giallo2Sara@
 	- [x] WireGuard
 		- [x] Casa
 	- [x] Open VPN
@@ -35,10 +35,39 @@
 - [ ] Softwares
 	- [ ] RDP Manager
 		- [x] Install application
-		- [ ] import links
+		- [x] import links
+		- [ ] General Mills
+			- [ ] linux 
+				- [ ] usr
+				- [ ] pwd
+		- [ ] Sofidel 
+			- [ ] usr
+			- [ ] pwd
+		- [ ] Cigalah
+			- [ ] usr
+			- [ ] pwd
+		- [ ] ABI
+			- [ ] usr
+			- [ ] pwd
+		- [ ] Esprinet
+			- [ ] usr
+			- [ ] pwd
+		- [ ] LaMolisana
+			- [ ] usr
+			- [ ] pwd
+		- [ ] Riso Scotti
+			- [ ] usr
+			- [ ] pwd
+		- [ ] Sbaraini
+			- [ ] usr
+			- [ ] pwd
+		- [x] Foma
+			- [x] usr: E80Admin
+			- [x] pwd: \*Ele\*ttric\*1980
 	- [ ] MOBAXTerm
 		- [x] Application
-		- [ ] Sessions
+		- [x] Sessions
+		- [ ] Passwords
 	- [x] EM Client
 		- [x] Katamail
 		- [x] MontiOnline
@@ -54,18 +83,25 @@
 		- [x] Links
 	- [x] Total Commander
 	- [x] 7zip
-	- [ ] MailStore 
+	- [x] MailStore 
 	- [ ] VMWare
 		- [ ] Vmware workstations
 		- [ ] VM
 			- [ ] Linux VM
+			- [ ] WinXLite
 			- [ ] 
 	- [x] Everything
 	- [x] WSL
 		- [x] Ubuntu
-	- [ ] Postman
-	- [ ] Infomotion APPS
-- [ ] 
-	
+	- [x] Postman
+	- [x] Infomotion APPS
+	- [x] Deepl
+	- [ ] E80 Softwares
+		- [ ] Smartcad
+		- [ ] Smartview
+		- [ ] Licence
+		- [ ] Security
+		- [ ] Smarter
+	- [ ] 
 
-	
+
