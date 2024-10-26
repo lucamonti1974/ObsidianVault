@@ -48,6 +48,7 @@
 			- [ ] 
 	- [x] Everything
 	- [x] WSL
+		- [x] Ubuntu
 - [ ] 
 	
 
