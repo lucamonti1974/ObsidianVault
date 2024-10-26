@@ -47,6 +47,7 @@
 			- [ ] Linux VM
 			- [ ] 
 	- [x] Everything
+	- [x] WSL
 - [ ] 
 	
 
