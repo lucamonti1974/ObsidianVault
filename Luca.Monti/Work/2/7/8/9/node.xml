@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="9" master_id="0" name="Ascione Simone" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text justification="left"></rich_text>
+    <rich_text weight="heavy">
+</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h1">Scuola
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text weight="heavy">
+</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text scale="h1">Competenze
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text scale="h1"> Disponibilità
+</rich_text>
+    <rich_text>Disponibile da settembre, 
+
+
+</rich_text>
+    <rich_text scale="h1">Giudizio
+Sembra un po' timido
+Molto dubbioso sulla trasferta
+</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+</rich_text>
+    <table char_offset="0" justification="left" col_min="60" col_max="60" col_widths="0">
+      <row>
+        <cell>Data Nascita23/11/2000</cell>
+      </row>
+    </table>
+    <table char_offset="10" justification="left" col_min="60" col_max="60" col_widths="0,0,0,0,0,0,0">
+      <row>
+        <cell>Unimore</cell>
+        <cell>Informatica</cell>
+        <cell>2019</cell>
+        <cell>mancano due esami, sta facendo la tesi</cell>
+        <cell></cell>
+        <cell></cell>
+        <cell></cell>
+      </row>
+      <row>
+        <cell>Residenza</cell>
+        <cell>Campogalliano</cell>
+        <cell>email</cell>
+        <cell>asciosimo@gmail.com</cell>
+        <cell>telefono</cell>
+        <cell>3493050253</cell>
+        <cell>FermiTelecomunicazioni e Informatica20142019</cell>
+      </row>
+    </table>
+    <table char_offset="25" justification="left" col_min="60" col_max="60" col_widths="0">
+      <row>
+        <cell>LinguaggioConoscenzaLivelloEsperienza</cell>
+      </row>
+    </table>
+  </node>
+</cherrytree>

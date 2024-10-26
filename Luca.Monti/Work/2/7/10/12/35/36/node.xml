@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="36" master_id="0" name="Functional" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text>Modifica impianto Georgia Pacific di Portland (USA), solo magazzino, non c'è produzione, riceve dei pallet da chiatte 
+• lgv manager
+• SDM legacy
+
+Esistono due commesse precedenti
+• CC1361: RG1 Warehouse
+	• 15 Lgv CB25
+	• FG from Inbound to Warehouse
+	• FG from Warehouse to Staging Lane
+	• EPS from Inbounds to Warehouse
+	• EPS from Warehouse to Outbound conveyor
+• CC1527: RG2 Warehouse
+	• 13 Fork CB16 LGV’s for Finished Good handling
+	• Transfer of RG1 Finished Goods (FG) from interface conveyor with existing E80 CB25 LGV’s to the warehouse.
+	• Transfer of manually palletized RG1 FG from interface conveyor to the warehouse.
+	• Transfer of other facility inbound product from an interface conveyor to the warehouse.
+	• Transfer of FG from interface conveyors to the Shipping Pre
+	• Transfer of FG from warehouse to shipping staging area.
+
+</rich_text>
+    <rich_text scale="h3">Modifica nuova commessa
+</rich_text>
+    <rich_text>• </rich_text>
+    <rich_text weight="heavy">3 CB25</rich_text>
+    <rich_text> 4 single double fork LGVs: These LGVs will handle finished goods and barge boards
+•  </rich_text>
+    <rich_text weight="heavy">RG1</rich_text>
+    <rich_text> layout unchanged
+  • </rich_text>
+    <rich_text weight="heavy">RG2</rich_text>
+    <rich_text> layout change:
+	• Nuovo conveyor per inbound pallet di FG da RG1 a RG2, rimossi block storage per  fargli posto
+	• PCZZI
+	• Rimuovere block storage X da 1 a 17
+	• BS X 18 e 19 no stack
+	• BS V  1
+	• BS U 1
+
+&gt;Modifiche Block storage
+</rich_text>
+  </node>
+</cherrytree>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="22" master_id="0" name="Log" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text scale="h2">Dates
+</rich_text>
+    <rich_text>  What        • • </rich_text>
+    <rich_text weight="heavy">
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>    </rich_text>
+    <rich_text weight="heavy">
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h2">2024 04 03
+</rich_text>
+    <rich_text>Test in corso
+Sviluppo finito
+</rich_text>
+    <rich_text scale="h1">Test truckloading da fare</rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <table char_offset="26" justification="left" col_min="60" col_max="60" col_widths="0,0">
+      <row>
+        <cell>When</cell>
+        <cell>Who</cell>
+      </row>
+    </table>
+    <table char_offset="32" justification="left" col_min="60" col_max="60" col_widths="0,0">
+      <row>
+        <cell>Baljinder Pasini</cell>
+        <cell></cell>
+      </row>
+      <row>
+        <cell>End 2 End15/04/2024Baljinder Pasini</cell>
+        <cell> Avviamento</cell>
+      </row>
+    </table>
+  </node>
+</cherrytree>

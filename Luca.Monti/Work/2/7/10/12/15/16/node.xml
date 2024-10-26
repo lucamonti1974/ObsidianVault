@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="16" master_id="0" name="Network" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text scale="h2">VPN 
+</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h2">Servers
+</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <table char_offset="7" justification="left" col_min="60" col_max="60" col_widths="0,0,0,0,0,0,0,0,0,0">
+      <row>
+        <cell>C2</cell>
+        <cell>10.4.1.184saStandardE80CC1641Coster2</cell>
+        <cell>YES</cell>
+        <cell>C2E80AGLGVM10.4.1.185saStandardE80CC1641Coster2</cell>
+        <cell>YES</cell>
+        <cell>C2</cell>
+        <cell>10.4.1.167saStandardE80CC1641Coster2</cell>
+        <cell>YES</cell>
+        <cell>C2E80AGPPT10.4.1.168saStandardE80PalletPatternToolCC1641YES</cell>
+        <cell>c2</cell>
+      </row>
+    </table>
+    <table char_offset="19" justification="left" col_min="60" col_max="60" col_widths="0,0,0,0,0">
+      <row>
+        <cell>VPN ClientAnyConnect</cell>
+        <cell>plano.access.pepsico.com/securesva</cell>
+        <cell>Username09334804</cell>
+        <cell>PasswordGiallo2Sara#2</cell>
+        <cell>Impostazione oktahttps://secure.pepsico.com/enduser/settings</cell>
+      </row>
+    </table>
+    <table char_offset="21" justification="left" col_min="60" col_max="60" col_widths="0,0,0,0">
+      <row>
+        <cell>UsernameFFAS</cell>
+        <cell></cell>
+        <cell></cell>
+        <cell></cell>
+      </row>
+      <row>
+        <cell>Jump Server26.206.19.166</cell>
+        <cell>Server Lgv Manager26.206.19.35</cell>
+        <cell>Server Db 126.206.19.37</cell>
+        <cell>Server Db 226.206.19.38</cell>
+      </row>
+    </table>
+  </node>
+</cherrytree>

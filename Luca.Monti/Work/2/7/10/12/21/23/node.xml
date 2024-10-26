@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="23" master_id="0" name="Network" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text>Connect to E80 vpn at address 
+
+</rich_text>
+    <rich_text weight="heavy">usavpn01.e80group.com</rich_text>
+    <rich_text>
+
+Connect to address 
+
+</rich_text>
+    <rich_text link="webs https://162.141.44.60">https://162.141.44.60</rich_text>
+    <rich_text>
+
+login with user
+
+    
+Search for server
+
+Direct connections
+
+• 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>• 172.22.240.107
+</rich_text>
+    <table char_offset="163" justification="left" col_min="60" col_max="60" col_widths="0,0,0">
+      <row>
+        <cell>SITELA090SRVSEhttps://162.141.44.60/redirect.asp?entityID=62489&amp;entityTypeID=21&amp;module=remoteconnection](https://162.141.44.60/redirect.asp?entityID=7287&amp;entityTypeID=34&amp;module=remoteconnections)s</cell>
+        <cell></cell>
+        <cell></cell>
+      </row>
+      <row>
+        <cell>UsernamePassword</cell>
+        <cell>gpnetE80Dev5QcfmfCocWQlb3L2gUeO</cell>
+        <cell>gpnete80supportjmx8ZtBGeVO6iWGXtEgw</cell>
+      </row>
+    </table>
+  </node>
+</cherrytree>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="56" master_id="0" name="2024-04-23 Stato cantieri" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text scale="h1">CC1863 GP Port Hudson
+</rich_text>
+    <rich_text>• Pasini
+• Singh Baljinder
+End to end in svolgimento, qualche problema su ATL, più che altro per il fatto che né i nostri che la controparte del cliente sa esattamente come funzioni il load plan  e l'assegnazione delle dock doors
+
+</rich_text>
+    <rich_text scale="h1">CC1885 Foma
+</rich_text>
+    <rich_text>• Ceddia
+• Bigliardi
+• Vernia
+Il giorno 24 aprile il team andrà in Foma per testare la comunicazione con dei vecchi plc ET200S e per concordare insieme a Proxaut la gestione del traffico misto; ne approfitteranno per vedere il cantiere e magari chiarire qualche dubbio
+Sviluppo iniziato, per ora non si vedono criticità, ho solo qualche dubbio sulla gestione dei quad su sdm che non ho mai affrontato
+
+</rich_text>
+    <rich_text scale="h1">CC1914 Abi
+</rich_text>
+    <rich_text>• Lorenzia James
+• Piscitielo
+Cantiere gestito dal cliente, non da E80. I ragazzi fanno turni da 6 settimane, lato pc con fino a 15 ore al giorno ( chiaro che la scelta di aiutare Lorenzia con Piscitiello a questo punto non ha premiato, troppo junior per poter lavorare da solo su un turno in un impianto del genere). Il cliente non lavora direttamente sulla gui e sulle navette, c'è solo una persona di AB per turno per 20 navette. I turni dovevano essere per due settimane per recuperare  un ritardo di partenza, non per gestire l'impianto a posto del cliente. Il site non fa nessun filtro e non assume responsabilità. Problematiche pc evidenti non ne vedo, ci sono ancora evidenti problemi di layout e di traffico soprattutto nella zona del gravity  
+Ad ora non si prevede di smettere con i turni, anche appurato che Infomotion viene pagata 10 ore al giorno per i suo tecnici (vero che ci pagano anche gente inutile ma questo non lo direi),credo che ci sia bisogno di una gestione diversa in questo cantiere.
+
+</rich_text>
+    <rich_text scale="h1">CC1922 Archkbum
+</rich_text>
+    <rich_text>• Serradimigni da remoto ( Pasini per lo step successivo?)
+RA OK, empty ok, primi prelievi da palletizzatore, c' è un po di casino con i server, sembrava che ci fosse il cluster, invece c'è il warm backup bisogna fare pulizia. Serradimigni dovrebbe finire domani con Pagiusco per il ppt
+
+</rich_text>
+    <rich_text scale="h1">CC1928 Nestle Nunspet
+</rich_text>
+    <rich_text>• Simoni
+Kickoff ok, in sviluppo, stiamo già simulando, alcune modifiche da fare alla logica per dopo il kickoff
+
+
+</rich_text>
+    <rich_text scale="h1">CC1988 Cigalah
+</rich_text>
+    <rich_text>• Abdi
+• Bigliardi? ( solo se serve un aiuto inziale in cantiere, ma si sovrapporrebbe con Foma, staimo comunque mandando avanti il visto anche per lui)
+OK, sviluppo finito, test al 30% circa, mi aspetto che la settimana prossima vengano finiti
+
+</rich_text>
+    <rich_text scale="h1">CC2047 Sofidel Germania
+</rich_text>
+    <rich_text>• Carretti
+OK, in sviluppo. Kick off fatto. Gestione badge ok, manca sviluppo IComponent per gestione PcRequest da lgv manager
+
+
+</rich_text>
+    <rich_text scale="h1">CC1890 General MIlls Belvidere
+</rich_text>
+    <rich_text>• Tani
+• Cantelli ( dimissionario al 15 maggio )
+
+</rich_text>
+    <rich_text scale="h1">CC1909 Tolleson
+</rich_text>
+    <rich_text>• Panzani
+• Longagnani
+
+</rich_text>
+    <rich_text scale="h1">CC1910 PepsiCo Indianapolis SC
+</rich_text>
+    <rich_text>• Bianconi 
+• Serradimigni
+
+</rich_text>
+    <rich_text scale="h1">CC1937 PepsiCo Atlanta QK
+</rich_text>
+    <rich_text>• Singh Jaskarn
+• Singh Manroop
+
+
+
+
+
+
+
+
+</rich_text>
+  </node>
+</cherrytree>

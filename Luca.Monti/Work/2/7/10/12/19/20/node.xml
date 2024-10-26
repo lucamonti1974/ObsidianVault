@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="20" master_id="0" name="Log" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text scale="h1">CC1862 Indianapolis
+</rich_text>
+    <rich_text scale="h2">Who
+</rich_text>
+    <rich_text weight="heavy">Singh Jaskarn</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h2">Date
+</rich_text>
+    <rich_text>  What        • 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text> da remoto   
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h2">State
+</rich_text>
+    <rich_text>OK, nessun problema segnalato
+</rich_text>
+    <rich_text scale="h2">FAT
+</rich_text>
+    <rich_text>• 9 aprile 
+Tutto ok, Jaskarn viene a casa a fine settimana, supporto da remoto
+</rich_text>
+    <table char_offset="60" justification="left" col_min="60" col_max="60" col_widths="0">
+      <row>
+        <cell>When</cell>
+      </row>
+    </table>
+    <table char_offset="75" justification="left" col_min="60" col_max="60" col_widths="0">
+      <row>
+        <cell> FAT</cell>
+      </row>
+    </table>
+  </node>
+</cherrytree>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="48" master_id="0" name="Clean all history" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text justification="left"></rich_text>
+    <codebox char_offset="0" justification="left" frame_width="500" frame_height="100" width_in_pixels="1" syntax_highlighting="sql" highlight_brackets="0" show_line_numbers="0">
+DELETE FROM Lgvcs.Missions
+DELETE FROM Lgvcs.Orders
+DELETE FROM Mms.AlarmEvent
+DELETE FROM SmartEvents.AlarmsEvents
+DELETE FROM Lgvcs.AlarmsEvents
+DELETE FROM Integration.LGVM_TO_SS
+DELETE FROM Integration.SS_TO_LGVM
+DELETE FROM Integration.MessageHistory
+DELETE FROM Reporting.ConsolidatedMissions
+DELETE FROM SmartEvents.ConsolidatedBlock
+DELETE FROM Lgvcs.TrackingInfo
+DELETE FROM Lgvcs.BatteryChargeCycles
+DELETE FROM Security.Log
+DELETE FROM Lgvcs.UserEvents
+DELETE FROM Lgvcs.StationEvents
+DELETE FROM Lgvcs.LgvWorkingCycles
+DELETE FROM SmartEvents.RootEvents
+</codebox>
+  </node>
+</cherrytree>

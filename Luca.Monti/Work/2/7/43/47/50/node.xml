@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="50" master_id="0" name="Reports Smartevents 8" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text>Correzione Errori su disponibiltà LGV
+
+[Pasted image 20240330023919.png]
+INSERT INTO @AlarmIdLgvRemoved SELECT CONVERT(bigint, Value) as Value FROM Reporting.ufn</rich_text>
+    <rich_text style="italic">GetSettings (NULL,'AlarmId','AlarmIdRemoved'</rich_text>
+    <rich_text>
+INSERT INTO @AlarmIdLgvRemoved SELECT CONVERT(bigint, Value) as Value FROM Reporting.ufn_GetSettings (NULL,'AlarmId','AlarmIdRemovedInMission')
+INSERT INTO @AlarmIdLgvRemoved SELECT CONVERT(bigint, Value) as Value FROM Reporting.ufn_GetSettings (NULL,'AlarmId','AlarmIdRemovedNotInMission')
+</rich_text>
+  </node>
+</cherrytree>

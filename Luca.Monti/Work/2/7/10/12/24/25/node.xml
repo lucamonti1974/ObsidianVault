@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="25" master_id="0" name="Functional" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text scale="h1">LGV system
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text scale="h1">Material Type
+</rich_text>
+    <rich_text>• </rich_text>
+    <rich_text weight="heavy">PG</rich_text>
+    <rich_text> Prodotto grezzo
+• </rich_text>
+    <rich_text weight="heavy">PS</rich_text>
+    <rich_text> Prodotto sabbiato
+• </rich_text>
+    <rich_text weight="heavy">PS</rich_text>
+    <rich_text> Prodotto sabbiato termoregolato
+• </rich_text>
+    <rich_text weight="heavy">PL</rich_text>
+    <rich_text> Prodotto lavorato
+• </rich_text>
+    <rich_text weight="heavy">PV</rich_text>
+    <rich_text> Prodotto vendibile
+
+</rich_text>
+    <rich_text scale="h1">Layout
+</rich_text>
+    <rich_text>
+[Pasted image 20240403022914.png]</rich_text>
+    <rich_text scale="h1"> si considera conclusa quando Ore stagionatura </rich_text>
+    <table char_offset="11" justification="left" col_min="60" col_max="60" col_widths="0,0,0,0,0,0">
+      <row>
+        <cell>SERVER PPTLA090SRE80SDM</cell>
+        <cell>https://162.141.44.60/redirect.asp?entityID=7978&amp;entityTypeID=34&amp;module=remoteconnections</cell>
+        <cell>SERVER SDMLA090SRE80SDM1</cell>
+        <cell>SERVER SDM TESTLA090SRE80SDMT</cell>
+        <cell>SERVER TWINCATLA090TWINCAT</cell>
+        <cell>CodeDescriptionTypeRowsPositions</cell>
+      </row>
+    </table>
+  </node>
+</cherrytree>

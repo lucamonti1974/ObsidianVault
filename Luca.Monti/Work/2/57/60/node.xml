@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="60" master_id="0" name="2024-W13" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text>&gt; 2024 03 27
+
+&gt; • 
+&gt;
+&gt;       Verificare il funzionamento con any e resource type o Resource</rich_text>
+    <rich_text style="italic">&gt;   
+</rich_text>
+    <rich_text>&gt; • 
+&gt; 
+&gt; • 
+&gt;
+&gt; • 
+&gt;
+&gt; 
+
+
+
+</rich_text>
+    <rich_text scale="h1">CC1910 Indy 2
+</rich_text>
+    <rich_text scale="h2">Who
+</rich_text>
+    <rich_text weight="heavy">Bianconi</rich_text>
+    <rich_text> / 
+</rich_text>
+    <rich_text weight="heavy">Serradimigni</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text scale="h2">State
+</rich_text>
+    <rich_text>ancora in fase iniziale 
+
+
+</rich_text>
+    <rich_text scale="h1">CC1937
+</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h2">Who
+</rich_text>
+    <rich_text weight="heavy">Singh Jaskarn</rich_text>
+    <rich_text> / 
+</rich_text>
+    <rich_text weight="heavy">Singh Manroop</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h2">State
+</rich_text>
+    <rich_text>ancora ferma
+
+
+</rich_text>
+    <rich_text scale="h1">CC1864 GP Port Hudson
+</rich_text>
+    <rich_text scale="h2">Who
+</rich_text>
+    <rich_text weight="heavy">Pasini</rich_text>
+    <rich_text> / 
+</rich_text>
+    <rich_text weight="heavy">Singh Baljinder</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h2">State
+</rich_text>
+    <rich_text>Test in corso, sw finiti
+</rich_text>
+    <rich_text scale="h2">E2E
+</rich_text>
+    <rich_text>
+15 aprile da confermare
+cantiere ottobre novembre
+
+
+
+
+</rich_text>
+    <rich_text scale="h1">CC1928 Nestle Nunspeet
+</rich_text>
+    <rich_text scale="h2">Who
+</rich_text>
+    <rich_text weight="heavy">Simoni</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h2">Dates
+</rich_text>
+    <rich_text>  What        • 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>    
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h2">Notes State
+</rich_text>
+    <rich_text>Commessa simile CC1129
+
+
+</rich_text>
+    <rich_text scale="h1">CC2046 Sofidel Germany
+</rich_text>
+    <rich_text scale="h2">Who
+</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">Carretti</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h2">Dates
+</rich_text>
+    <rich_text>  What        • 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+    
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+Riunione x gestione Badge e Robot Activation
+
+
+
+</rich_text>
+    <rich_text scale="h1">Archkbum
+</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h2">Who
+</rich_text>
+    <rich_text>&gt;</rich_text>
+    <rich_text weight="heavy">PASINI?</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h2">Dates
+</rich_text>
+    <rich_text>  What        • 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text> remoto   
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text scale="h1">Jacksonville
+</rich_text>
+    <rich_text scale="h2">Who
+</rich_text>
+    <rich_text weight="heavy">Carretti</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h2">Dates
+</rich_text>
+    <rich_text>  What        
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+• 
+    
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <table char_offset="464" justification="left" col_min="60" col_max="60" col_widths="0">
+      <row>
+        <cell>When</cell>
+      </row>
+    </table>
+    <table char_offset="470" justification="left" col_min="60" col_max="60" col_widths="0">
+      <row>
+        <cell> Avviamento</cell>
+      </row>
+    </table>
+    <table char_offset="569" justification="left" col_min="60" col_max="60" col_widths="0">
+      <row>
+        <cell>When</cell>
+      </row>
+    </table>
+    <table char_offset="570" justification="left" col_min="60" col_max="60" col_widths="0,0">
+      <row>
+        <cell>Interface Test</cell>
+        <cell>End 2 End29 Luglio</cell>
+      </row>
+      <row>
+        <cell> Presentation meeting</cell>
+        <cell>Connectivity Test</cell>
+      </row>
+    </table>
+    <table char_offset="578" justification="left" col_min="60" col_max="60" col_widths="0">
+      <row>
+        <cell> Avviamento</cell>
+      </row>
+    </table>
+    <table char_offset="674" justification="left" col_min="60" col_max="60" col_widths="0">
+      <row>
+        <cell>When</cell>
+      </row>
+    </table>
+    <table char_offset="686" justification="left" col_min="60" col_max="60" col_widths="0,0,0">
+      <row>
+        <cell>Spostamento EPS</cell>
+        <cell> 15 aprile</cell>
+        <cell> Avviamento</cell>
+      </row>
+    </table>
+    <table char_offset="738" justification="left" col_min="60" col_max="60" col_widths="0">
+      <row>
+        <cell>When</cell>
+      </row>
+    </table>
+    <table char_offset="748" justification="left" col_min="60" col_max="60" col_widths="0">
+      <row>
+        <cell> Avviamento</cell>
+      </row>
+    </table>
+  </node>
+</cherrytree>

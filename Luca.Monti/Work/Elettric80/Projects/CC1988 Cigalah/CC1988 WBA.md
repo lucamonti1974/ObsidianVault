@@ -1,0 +1,24 @@
+- **Pickup from gravity**
+	- Sensor for pallet presence
+	- mission handled by lgv manager
+	- drop to inbound conveyor
+- **Shape control**
+	- camera detect pallet data
+		- LPN
+		- SKU
+		- Quantity
+		- Lot		
+	- shape control
+		- width
+		- length
+		- weight
+		- height
+		- overhangs
+- **pickup from inbound**
+	- wmsoffering - hold in case of full warehouse
+	- mission handled by sdm
+	- putaway rules
+		- ABC classification
+		- minimize mission time
+		- ensure to share  items between different aisles
+	- in case of carwash drop pallet to outbound 

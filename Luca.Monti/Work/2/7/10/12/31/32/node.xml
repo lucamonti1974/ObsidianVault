@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="32" master_id="0" name="Configuration" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text scale="h2">Core1
+</rich_text>
+    <rich_text>IP:  </rich_text>
+    <rich_text weight="heavy">10.91.240.30</rich_text>
+    <rich_text>
+&gt; User:           LGV  &gt;           LGV-JCLlorenzia.subasingam
+&gt;Pwd:            Firstpw2024!
+
+</rich_text>
+    <rich_text scale="h3">SQL Server
+</rich_text>
+    <rich_text>&gt;usr: sa
+&gt;pwd: Jiva,Opi48
+
+</rich_text>
+    <rich_text scale="h2">WebUI
+</rich_text>
+    <rich_text>IP:  </rich_text>
+    <rich_text weight="heavy">10.91.240.52</rich_text>
+    <rich_text>
+</rich_text>
+  </node>
+</cherrytree>

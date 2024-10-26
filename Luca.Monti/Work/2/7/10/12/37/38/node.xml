@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="38" master_id="0" name="CC1988 WBA" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text>• </rich_text>
+    <rich_text weight="heavy">Pickup from gravity
+</rich_text>
+    <rich_text>	• Sensor for pallet presence
+	• mission handled by lgv manager
+	• drop to inbound conveyor
+• </rich_text>
+    <rich_text weight="heavy">Shape control
+</rich_text>
+    <rich_text>	• camera detect pallet data
+		• LPN
+		• SKU
+		• Quantity
+		• Lot		
+	• shape control
+		• width
+		• length
+		• weight
+		• height
+		• overhangs
+• </rich_text>
+    <rich_text weight="heavy">pickup from inbound
+</rich_text>
+    <rich_text>	• wmsoffering 
+	• mission handled by sdm
+	• putaway rules
+		• ABC classification
+		• minimize mission time
+		• ensure to share  items between different aisles
+	• in case of carwash drop pallet to outbound 
+</rich_text>
+  </node>
+</cherrytree>

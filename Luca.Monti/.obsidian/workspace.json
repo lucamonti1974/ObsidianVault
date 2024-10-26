@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "bc0e4f3e12414dd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcd7d9b3d60db5dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70ad7669b3fa25c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-05-13.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "7e18ba73e75dc828"
+          }
+        ]
+      },
+      {
+        "id": "596b17263147591b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "856fb8f7af313ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-05-13.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "7e18ba73e75dc828"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2329695ae7ff92f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a2750c3adaa25bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2432c99f3bbba2c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbd6929e1e71cec8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d57faaf5de88618",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc83ab72157a057f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba3662c933b0509e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4898fd1d77e1ba14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-05-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90ea14d39129c020",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-05-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85a65738aeec7fff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14fa4f27b71fc91e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-05-13.md"
+              }
+            }
+          },
+          {
+            "id": "70a294fa0a6e4a26",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "70ad7669b3fa25c3",
+  "lastOpenFiles": [
+    "Work/Elettric80/Projects/CC1914 AbInbev/Configuration.md",
+    "Work/Colloqui/Ascione Simone.md",
+    "Work/Elettric80/Projects/CC1914 AbInbev/Log.md",
+    "_Daily Notes/2024-04-23 Stato cantieri.md",
+    "Work/Elettric80/Projects Log.md",
+    "Work/Elettric80/IMPORTANTE!!!!.md",
+    "Untitled.md",
+    "Personal/Documents",
+    "Personal",
+    "Work/Snippets/C#/CSharp Language Version.md",
+    "Work/Elettric80/Projects/CC1890 GM Belvidere/Log.md",
+    "Work/Elettric80/Projects/CcC928 Nunspet",
+    "Work/Elettric80/Projects/CC1885 Foma/Functional.md",
+    "Work/Elettric80/Projects/CC1890 GM Belvidere/Network.md",
+    "_Weekly Notes/2024-W13.md",
+    "_Weekly Notes/2024-W11.md",
+    "_Weekly Notes/2024-W12.md",
+    "Work/Elettric80/Projects/CC1909 PepsiCo Tolleson/Log.md",
+    "Work/Elettric80/Projects/CC1863 GP Port Hudson/Log.md",
+    "Work/Elettric80/Projects/CC1988 Cigalah/Log.md",
+    "Work/Elettric80/Projects/CC1641 Coster 2/Network.md",
+    "Work/Elettric80/Projects/CC1965 GP Rivergate/Pasted image 20240328183343.png",
+    "Work/Elettric80/Projects/CC1965 GP Rivergate/Pasted image 20240328174627.png",
+    "Work/Elettric80/Projects/CC1965 GP Rivergate/Functional.md",
+    "Work/Elettric80/Projects/CC1937 PepsiCo Atlanta QK/Log.md",
+    "Work/Elettric80/Projects/CC1862 PepsiCo Indianapolis/Log.md",
+    "Work/Elettric80/Projects/CC1862 PepsiCo Indianapolis",
+    "Work/Elettric80/Projects/CC1863 GP Port Hudson/Network.md",
+    "Work/Elettric80/Projects/CC1988 Cigalah/CC1988 WBA.md",
+    "Work/Elettric80/Projects/CC2017 Almag/Log.md",
+    "Work/Elettric80/Projects State/Weekly project alignment.md",
+    "Work/Elettric80/Projects/CC1937 PepsiCo Atlanta QK",
+    "_Weekly Notes/2024-W14              2024-04-02.md",
+    "Work/Elettric80/Projects/CC1914 AbInbev",
+    "Work/Elettric80/Projects/CC1885 Foma/Pasted image 20240403022914.png",
+    "Work/Elettric80/Projects/CC1909 PepsiCo Tolleson",
+    "Work/Elettric80/Projects/CC1988 Cigalah/CC1988 Cigalah Project.canvas",
+    "Work/Colloqui",
+    "Work/Elettric80/Projects/CC1885 Foma",
+    "_Weekly Notes",
+    "Untitled.canvas",
+    "Work/Snippets/LGv Manager/Pasted image 20240330023919.png",
+    "Pasted image 20240328180329.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="28" master_id="0" name="Network" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text scale="h3">GlobalConnect address
+</rich_text>
+    <rich_text>
+gpvend.genmills.com
+
+</rich_text>
+    <rich_text scale="h3">PulseSecure
+</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text link="webs https://pfgateway.genmills.com/vendor">https://pfgateway.genmills.com/vendor</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text scale="h2">Servers
+</rich_text>
+    <rich_text>
+CISE80DEV1 172.25.7.213</rich_text>
+    <table char_offset="0" justification="left" col_min="60" col_max="60" col_widths="0,0,0,0">
+      <row>
+        <cell>CB10SCB10 simplexForks11</cell>
+        <cell>CB10TCB10 TriplexForks11</cell>
+        <cell>REACHReach doppia profonditàForks12</cell>
+        <cell>CONVConveyorsConveyor21</cell>
+      </row>
+    </table>
+  </node>
+</cherrytree>

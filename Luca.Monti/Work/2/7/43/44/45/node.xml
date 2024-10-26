@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="45" master_id="0" name="CSharp Language Version" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text link="webs http://PropertyGroup">PropertyGroup</rich_text>
+    <rich_text>  
+   </rich_text>
+    <rich_text link="webs http://LangVersion">LangVersion</rich_text>
+    <rich_text>latest</rich_text>
+    <rich_text link="webs http:///LangVersion">/LangVersion</rich_text>
+    <rich_text>   
+</rich_text>
+    <rich_text link="webs http:///PropertyGroup">/PropertyGroup</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text scale="h2">Clanguage version reference
+</rich_text>
+    <rich_text scale="h1">
+</rich_text>
+    <rich_text>
+The following table shows all current C</rich_text>
+    <rich_text scale="h1">language versions. Your compiler may not necessarily understand every value if it's older. If you install the latest .NET SDK, then you have access to everything listed.
+</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <table char_offset="308" justification="left" col_min="60" col_max="60" col_widths="0">
+      <row>
+        <cell>ValueMeaning</cell>
+      </row>
+    </table>
+  </node>
+</cherrytree>

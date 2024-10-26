@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="6" master_id="0" name="README" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text scale="h1">Editor Syntax Highlight Obsidian Plugin
+</rich_text>
+    <rich_text>A plugin for </rich_text>
+    <rich_text link="webs https://obsidian.md">Obsidian</rich_text>
+    <rich_text> which allows syntax highlighting for code blocks in the editor.
+
+Screenshot
+
+Imports code from </rich_text>
+    <rich_text link="webs https://github.com/codemirror/CodeMirror/">CodeMirror</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text scale="h3">Compatibility
+</rich_text>
+    <rich_text>
+Custom plugins are only available for Obsidian v0.9.7+.
+
+The current API of this repo targets Obsidian </rich_text>
+    <rich_text weight="heavy">v0.9.7</rich_text>
+    <rich_text>. 
+
+</rich_text>
+    <rich_text scale="h3">Notes
+</rich_text>
+    <rich_text>This is all very expermental at the moment, so parts might not work, etc.
+
+This imports a bunch of </rich_text>
+    <rich_text link="webs https://github.com/codemirror/CodeMirror/tree/5.58.2/mode">syntax highlighting modes from CodeMirror</rich_text>
+    <rich_text>, as well as the </rich_text>
+    <rich_text link="webs https://github.com/codemirror/CodeMirror/blob/5.58.2/theme/yonce.css">yonce</rich_text>
+    <rich_text> theme for dark mode.
+
+</rich_text>
+    <rich_text scale="h2">Installation
+</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h3">From within Obsidian
+</rich_text>
+    <rich_text>From Obsidian v0.9.8, you can activate this plugin within Obsidian by doing the following:
+• Open Settings &gt; Third
+• Make sure Safe mode is </rich_text>
+    <rich_text weight="heavy">off
+</rich_text>
+    <rich_text>• Click Browse community plugins
+• Search for "Syntax Highlight"
+• Click Install
+• Once installed, close the community plugins window and activate the newly installed plugin
+</rich_text>
+    <rich_text scale="h3">Updates
+</rich_text>
+    <rich_text>You can follow the same procedure to update the plugin
+
+</rich_text>
+    <rich_text scale="h3">From GitHub
+</rich_text>
+    <rich_text>• Download the </rich_text>
+    <rich_text link="webs https://github.com/deathau/cm-editor-syntax-highlight-obsidian/releases/latest">Latest release
+</rich_text>
+    <rich_text>• Extract the </rich_text>
+    <rich_text family="monospace">cm-editor-syntax-highlight-obsidian</rich_text>
+    <rich_text> folder from the zip to your vault's plugins folder: </rich_text>
+    <rich_text family="monospace">&lt;vault&gt;/.obsidian/plugins/</rich_text>
+    <rich_text>  
+Note: On some machines the </rich_text>
+    <rich_text family="monospace">.obsidian</rich_text>
+    <rich_text> folder may be hidden. On MacOS you should be able to press </rich_text>
+    <rich_text family="monospace">Command+Shift+Dot</rich_text>
+    <rich_text> to show the folder in Finder.
+• Reload Obsidian
+• If prompted about Safe Mode, you can disable safe mode and enable the plugin.
+Otherwise head to Settings, thirdenable the plugin from there.
+
+</rich_text>
+    <rich_text scale="h2">Development
+</rich_text>
+    <rich_text>
+This project uses Typescript to provide type checking and documentation.  
+The repo depends on the latest </rich_text>
+    <rich_text link="webs https://github.com/obsidianmd/obsidian-api">plugin API</rich_text>
+    <rich_text> in Typescript Definition format, which contains TSDoc comments describing what it does.
+
+</rich_text>
+    <rich_text weight="heavy">Note:</rich_text>
+    <rich_text> The Obsidian API is still in early alpha and is subject to change at any time!
+
+If you want to contribute to development and/or just customize it with your own
+tweaks, you can do the following:
+• Clone this repo.
+• </rich_text>
+    <rich_text family="monospace">npm i</rich_text>
+    <rich_text> or </rich_text>
+    <rich_text family="monospace">yarn</rich_text>
+    <rich_text> to install dependencies
+• </rich_text>
+    <rich_text family="monospace">npm run build</rich_text>
+    <rich_text> to compile.
+• Copy </rich_text>
+    <rich_text family="monospace">manifest.json</rich_text>
+    <rich_text>, </rich_text>
+    <rich_text family="monospace">main.js</rich_text>
+    <rich_text> and </rich_text>
+    <rich_text family="monospace">styles.css</rich_text>
+    <rich_text> to a subfolder of your plugins
+folder (e.g, </rich_text>
+    <rich_text family="monospace">&lt;vault&gt;/.obsidian/plugins/cm-editor-syntax-highlight-obsidian/)</rich_text>
+    <rich_text>• Reload obsidian to see changes
+
+Alternately, you can clone the repo directly into your plugins folder and once
+dependencies are installed use </rich_text>
+    <rich_text family="monospace">npm run dev</rich_text>
+    <rich_text> to start compilation in watch mode.  
+You may have to reload obsidian (</rich_text>
+    <rich_text family="monospace">ctrl+R)</rich_text>
+    <rich_text> see changes.
+
+</rich_text>
+    <rich_text scale="h2">Pricing
+</rich_text>
+    <rich_text>Huh? This is an open-source plugin I made </rich_text>
+    <rich_text style="italic">for fun</rich_text>
+    <rich_text>. It's completely free.
+However, if you absolutely </rich_text>
+  </node>
+</cherrytree>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="46" master_id="0" name="Static Extension" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <codebox char_offset="0" justification="left" frame_width="500" frame_height="100" width_in_pixels="1" syntax_highlighting="c#" highlight_brackets="0" show_line_numbers="0">
+namespace System
+{
+    public static class Extensions
+
+    {
+
+        #region Integer extensions
+        #region Bitcount
+        public static byte BitCount(this byte data)
+        {
+
+
+            byte count = 0;
+            while (data &gt; 0)
+            {    
+                count += (byte)(data &amp; 1);                    
+                data &gt;&gt;= 1;
+            }
+            return count;
+            
+        }
+
+        public static byte BitCount(this Int16 data)
+        {
+            return (byte)(BitCount((byte)(data &gt;&gt; 8)) + BitCount((byte)(data &amp; 0xff)));
+        }
+
+        public static byte BitCount(this Int32 data)
+        {
+            return (byte)(BitCount((Int16)(data &gt;&gt; 16)) + BitCount((Int16)(data &amp; 0xffff)));
+        }
+
+        public static byte BitCount(this Int64 data)
+        {
+            return (byte)(BitCount((Int32)(data &gt;&gt; 32)) + BitCount((Int32)(data &amp; 0xffffffff)));
+        }
+        #endregion
+
+
+        public static bool IsNullOrEmpty(this string value)
+        {
+            return value is null || value.Equals("");
+        }
+
+
+
+        #endregion
+    }
+}</codebox>
+  </node>
+</cherrytree>

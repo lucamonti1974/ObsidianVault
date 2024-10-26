@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="14" master_id="0" name="Network" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text scale="h2">Coster2
+</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text scale="h3">VPN
+</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text scale="h3">Users
+</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text style="italic" link="webs http://" scale="h3">IP Addresses
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+• 
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>E80CLSTE80AGLGVME80AGPPTE80SVCMNGRT• Smartevents 
+smbdb0
+</rich_text>
+    <rich_text scale="h3">Database
+</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <table char_offset="14" justification="left" col_min="60" col_max="60" col_widths="0,0,0">
+      <row>
+        <cell>URLhttps://89.31.50.253/wabam/costergroup</cell>
+        <cell>UsernameMontil@coster.com</cell>
+        <cell>PwdNC^/C&lt;rt6c&amp;X97</cell>
+      </row>
+      <row>
+        <cell>ClientConnection with browser</cell>
+        <cell></cell>
+        <cell></cell>
+      </row>
+    </table>
+    <table char_offset="37" justification="left" col_min="60" col_max="60" col_widths="0,0">
+      <row>
+        <cell>MFANotification on DUO App</cell>
+        <cell>DomainUserPWDNote</cell>
+      </row>
+    </table>
+    <table char_offset="43" justification="left" col_min="60" col_max="60" col_widths="0,0,0,0,0">
+      <row>
+        <cell>costergroupE80AdmE8O4dM1,428Admin user server Elettric80</cell>
+        <cell>costergroupE80SrvE8O?s3rV!91Service user server Elettric80</cell>
+        <cell>saStandardE80sa user SQL SERVER</cell>
+        <cell>e80sqlbckBDX4tN,.!=h4/8#çeò|c2-3100 (backup server ) user|
+</cell>
+        <cell>NameIPRuolo</cell>
+      </row>
+    </table>
+    <table char_offset="111" justification="left" col_min="60" col_max="60" col_widths="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0">
+      <row>
+        <cell>C2HWV0110.4.1.180SQL Server wms service, lgv manager ,ts,RA smart, kepware, ppt</cell>
+        <cell>C2</cell>
+        <cell>10.4.1.181SQL Server wms service</cell>
+        <cell>C2HWV0310.4.1.182lgv manager ,ts, smart, kepware ,</cell>
+        <cell>C2</cell>
+        <cell>10.4.1.183Cluster</cell>
+        <cell>C2E80AGSDM10.4.1.184Always on SDM</cell>
+        <cell>C2</cell>
+        <cell>10.4.1.185Always on LGV Manager</cell>
+        <cell>C2E80AGTS10.4.1.167Always on Transport System</cell>
+        <cell>C2</cell>
+        <cell>10.4.1.168Always on PPT</cell>
+        <cell>C2E80SVCSDMT10.4.1.186Service SDM</cell>
+        <cell>C2</cell>
+        <cell>10.4.1.187Service LGV Manager + TS + PPT + RA</cell>
+        <cell>C2E80SVCSMART10.4.1.189Service Smart</cell>
+        <cell>c2</cell>
+        <cell>10.4.1.190Server SQL scambio messaggi con MES</cell>
+        <cell>c23100172.18.4.73E80sqlbckBackups server</cell>
+        <cell>ServerIPUtentePasswordDBAlways ON</cell>
+      </row>
+    </table>
+  </node>
+</cherrytree>

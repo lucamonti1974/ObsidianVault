@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="27" master_id="0" name="Log" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1715300311" ts_lastsave="1715300311">
+    <rich_text scale="h2">2024 04 03Cantelli finisce il 15 maggio==
+</rich_text>
+    <rich_text>
+
+Da capire se serve sostituire Cantelli o se invece serve solo una persona per coprire i rientri in Italia
+
+Installazione conveyor 4 e 5, il 4 è in posizione sbagliata, da spostare
+Ancora pochissimo x pushback e picking
+Prevedo ancora fino settembre
+
+
+</rich_text>
+    <rich_text scale="h2">2024 04 10
+</rich_text>
+    <rich_text>• Aumentato overhang a 85 rear e front , right left 100 
+
+• Prima missione hazard zone, oggi ne faranno altre
+• Primi test conveyor 4
+
+• Problemi layout, incongruenza tra le stazioni nostre e del cliente ( ci stanno guardando Penna e il site)
+	 • finchè non sarà risolto il problema non verranno aperte nuove zone
+• Pochi pallet,  non  siamo in grado di verificare il traffico
+
+• Pushback : provati degli housekeeping, visto che non danno pallet
+• case pick: problemi lato host pick request
+	• Testato prima missione replenishment eps
+
+• Gravity: problemi latto host per incongruenza nomi layout
+• Item master modificato con altri tipi di pallet per il pallet sovrapposti
+
+
+
+
+
+</rich_text>
+  </node>
+</cherrytree>
