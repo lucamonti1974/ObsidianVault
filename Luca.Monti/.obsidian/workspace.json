@@ -4,42 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "bcd7d9b3d60db5dd",
+        "id": "14c275567d370435",
         "type": "tabs",
         "children": [
           {
-            "id": "70ad7669b3fa25c3",
+            "id": "1b7df0bb778baab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-13.md",
+                "file": "Install.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "7e18ba73e75dc828"
-          }
-        ]
-      },
-      {
-        "id": "596b17263147591b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "856fb8f7af313ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-05-13.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "7e18ba73e75dc828"
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Install"
+            }
           }
         ]
       }
@@ -61,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -76,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -84,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-13.md",
+                "file": "Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Install"
             }
           },
           {
@@ -124,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-13.md",
+                "file": "Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Install"
             }
           },
           {
@@ -138,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -147,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-13.md"
-              }
+                "file": "Install.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Install"
             }
           },
           {
@@ -156,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -178,15 +175,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "70ad7669b3fa25c3",
+  "active": "1b7df0bb778baab0",
   "lastOpenFiles": [
+    "Install.md",
+    "2024-05-13.md",
     "Work/Elettric80/Projects/CC1914 AbInbev/Configuration.md",
     "Work/Colloqui/Ascione Simone.md",
     "Work/Elettric80/Projects/CC1914 AbInbev/Log.md",
     "_Daily Notes/2024-04-23 Stato cantieri.md",
     "Work/Elettric80/Projects Log.md",
     "Work/Elettric80/IMPORTANTE!!!!.md",
-    "Untitled.md",
     "Personal/Documents",
     "Personal",
     "Work/Snippets/C#/CSharp Language Version.md",
@@ -212,7 +210,6 @@
     "Work/Elettric80/Projects/CC2017 Almag/Log.md",
     "Work/Elettric80/Projects State/Weekly project alignment.md",
     "Work/Elettric80/Projects/CC1937 PepsiCo Atlanta QK",
-    "_Weekly Notes/2024-W14              2024-04-02.md",
     "Work/Elettric80/Projects/CC1914 AbInbev",
     "Work/Elettric80/Projects/CC1885 Foma/Pasted image 20240403022914.png",
     "Work/Elettric80/Projects/CC1909 PepsiCo Tolleson",

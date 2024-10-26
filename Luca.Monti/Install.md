@@ -9,17 +9,22 @@
 		- [ ] General MIlls
 	- [x] Ubiquity
 	- [ ] WatchGuard
-		- [ ] Foma
+		- [ ] Foma 		
 	- [x] WireGuard
 		- [x] Casa
-	- [ ] Open VPN
-		- [ ] Sbaraini
-
+	- [x] Open VPN
+		- [x] Sbaraini
+	- [x] Sophos Connect
+		- [x] La Molisana  
 - [ ] Cartella Work
 - [ ] Bookmarks
 - [ ] Softwares
 	- [ ] RDP Manager
+		- [x] Install application
+		- [ ] import links
 	- [ ] MOBAXTerm
+		- [x] Application
+		- [ ] Sessions
 	- [ ] EM Client
 		- [ ] Katamail
 		- [ ] MontiOnline
@@ -31,6 +36,9 @@
 		- [x] GitLens
 	- [ ] ToDoIst
 	- [ ] Launcher
+	- [ ] Total Commander
+	- [x] 7zip
+	- [ ] MailStore 
 - [ ] 
 	
 
