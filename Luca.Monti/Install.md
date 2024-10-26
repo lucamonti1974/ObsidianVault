@@ -25,18 +25,18 @@
 	- [ ] MOBAXTerm
 		- [x] Application
 		- [ ] Sessions
-	- [ ] EM Client
-		- [ ] Katamail
-		- [ ] MontiOnline
-		- [ ] GMail
+	- [x] EM Client
+		- [x] Katamail
+		- [x] MontiOnline
+		- [x] GMail
 	- [x] Azure Data Studio
 	- [x] Visual Studio Code
 	- [x] Notepad++
 	- [x] GitKraken
 		- [x] GitLens
-	- [ ] ToDoIst
+	- [x] ToDoIst
 	- [ ] Launcher
-		- [ ] Application
+		- [x] Application
 		- [ ] Links
 	- [x] Total Commander
 	- [x] 7zip
