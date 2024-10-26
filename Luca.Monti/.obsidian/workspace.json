@@ -157,12 +157,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +174,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "1b7df0bb778baab0",
+  "active": "90ea14d39129c020",
   "lastOpenFiles": [
     "Install.md",
     "2024-05-13.md",

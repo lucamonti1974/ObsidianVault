@@ -39,6 +39,7 @@
 	- [ ] Total Commander
 	- [x] 7zip
 	- [ ] MailStore 
+	- [ ] VMWare
 - [ ] 
 	
 
