@@ -38,29 +38,41 @@
 		- [x] import links
 		- [ ] General Mills
 			- [ ] linux 
-				- [ ] usr
-				- [ ] pwd
+				- [ ] usr:    x67862a
+				- [ ] pwd:  Standard12345678
 		- [ ] Sofidel 
-			- [ ] usr
-			- [ ] pwd
+			- []  ]  usr:   E80Administrator
+			- [ ] pwd:  24G5@rn3burgE80adm1n!
 		- [ ] Cigalah
-			- [ ] usr
-			- [ ] pwd
+				- [ ] usr: Andrea
+				- [ ] pwd: Electric80@
 		- [ ] ABI
-			- [ ] usr
-			- [ ] pwd
+			- [ ] PISCITIELLO
+				- [ ] usr:    alessandro.piscitiel
+				- [ ] pwd: Firstpw2024!
+				- [ ] domain: LGV-JCL
+			- [ ] LORY
+				- [ ] usr:  lorenzia.subasingam
+				- [ ] pwd: Firstpw2024!
+				- [ ] domain: LGV-JCL
 		- [ ] Esprinet
-			- [ ] usr
-			- [ ] pwd
+			- [ ] usr: Electric80.Admin
+			- [ ] pwd: Dacambiare2023!
+			- [ ] domain: esprinet
 		- [ ] LaMolisana
-			- [ ] usr
-			- [ ] pwd
+			- [ ] RDP
+				- [ ] usr: elettric80
+				- [ ] pwd: 
+			- [ ] Teamviewer
+				- [ ] ID: 508 624 758
+				- [ ] pwd: yscuf85z
 		- [ ] Riso Scotti
-			- [ ] usr
-			- [ ] pwd
+			- [ ] usr: E80Admin
+			- [ ] pwd:  LGV2022RS!
 		- [ ] Sbaraini
-			- [ ] usr
-			- [ ] pwd
+			- [ ] usr: Crane
+			- [ ] pwd:     cGtVzv\*ZA653
+			- [ ] domain: Elettric80
 		- [x] Foma
 			- [x] usr: E80Admin
 			- [x] pwd: \*Ele\*ttric\*1980

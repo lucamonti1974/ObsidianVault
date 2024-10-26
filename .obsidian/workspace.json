@@ -15,7 +15,7 @@
               "state": {
                 "file": "Luca.Monti/Install.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Install"
@@ -145,7 +145,8 @@
               "title": "Outline of Install"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,5 +164,9 @@
     }
   },
   "active": "03a8e7c40ade24c2",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Brave_bookmarks_27_10_24.html",
+    "bookmarks_27_10_24.html",
+    "Password Chrome.csv"
+  ]
 }
