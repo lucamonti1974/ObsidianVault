@@ -36,10 +36,17 @@
 		- [x] GitLens
 	- [ ] ToDoIst
 	- [ ] Launcher
-	- [ ] Total Commander
+		- [ ] Application
+		- [ ] Links
+	- [x] Total Commander
 	- [x] 7zip
 	- [ ] MailStore 
 	- [ ] VMWare
+		- [ ] Vmware workstations
+		- [ ] VM
+			- [ ] Linux VM
+			- [ ] 
+	- [x] Everything
 - [ ] 
 	
 
