@@ -2,14 +2,28 @@
 	- [ ] Forti Client
 		- [x] Infomotion
 		- [ ] Sofidel
+			- [ ] Sofidel
+			- [ ] vpn2.sofidel.com
+			- [ ] luca.monti
+			- [ ] #:t?9fUz6MK2WO.6
 	- [ ] Global Protect
 		- [x] Elettric80
+			- [ ] usavpn01.e80group.com
+			- [ ] vpnext.e80group.com
 		- [ ] General Mills
+			- [ ] gpvend.genmills.com
 	- [ ] Ivanti Secure Access
 		- [ ] General MIlls
+			- [ ] General Mills
+				- [ ] https://pfgateway.genmills.com/vendor
+			- [ ] IC
+				- [ ] pfgateway.genmills.com
 	- [x] Ubiquity
 	- [ ] WatchGuard
 		- [ ] Foma 		
+			- [ ] firewall.foma.it
+			- [ ] RADIUS\E80-Monti
+			- [ ] Giallo2Sara@
 	- [x] WireGuard
 		- [x] Casa
 	- [x] Open VPN
@@ -35,9 +49,9 @@
 	- [x] GitKraken
 		- [x] GitLens
 	- [x] ToDoIst
-	- [ ] Launcher
+	- [x] Launcher
 		- [x] Application
-		- [ ] Links
+		- [x] Links
 	- [x] Total Commander
 	- [x] 7zip
 	- [ ] MailStore 
@@ -49,6 +63,8 @@
 	- [x] Everything
 	- [x] WSL
 		- [x] Ubuntu
+	- [ ] Postman
+	- [ ] Infomotion APPS
 - [ ] 
 	
 
